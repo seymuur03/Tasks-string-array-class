@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\bin\Debug\net8.0\StringArrayClass.tasks.exe
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\bin\Debug\net8.0\StringArrayClass.tasks.deps.json
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\bin\Debug\net8.0\StringArrayClass.tasks.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\bin\Debug\net8.0\StringArrayClass.tasks.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\bin\Debug\net8.0\StringArrayClass.tasks.pdb
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\StringArrayClass.tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\StringArrayClass.tasks.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\StringArrayClass.tasks.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\StringArrayClass.tasks.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\StringArrayClass.tasks.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\refint\StringArrayClass.tasks.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\StringArrayClass.tasks.pdb
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\StringArrayClass.tasks.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\StringArray\StringArrayClass\StringArrayClass.tasks\obj\Debug\net8.0\ref\StringArrayClass.tasks.dll
